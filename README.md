@@ -8,6 +8,8 @@ This repository showcases predictive modeling projects from my data science inte
 
 •	Credit Card Fraud Detection: Logistic Regression model to identify fraudulent transactions.
 
+• Movie Rating Prediction: Linear Regression model for predicting movie ratings.
+
 Each project includes preprocessing steps and exploratory data analysis (EDA) to enhance model accuracy and insights.
 
 Explore detailed Jupyter Notebooks for methodologies, visualizations, and insights gained from each predictive modeling task.
